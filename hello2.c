@@ -4,7 +4,7 @@ int main()
 {
   
   printf("Hello");
-  printf("CSE");
+  printf("ETC");
   printf("15151");
   return 0;
 }
